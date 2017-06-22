@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnHandler</string>
+    <string name="button_text">我是myHandler改变的</string>
+</resources>
